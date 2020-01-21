@@ -1,2 +1,2 @@
 # CTCI-Solutions
-Solutions for problems in Cracking the coding interview.
+<h3>This contains solutions for problems in Cracking the coding interview.All the solutions are implemented in C++.<h3>
