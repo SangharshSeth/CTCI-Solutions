@@ -41,8 +41,7 @@ ListNode *removeNthFromEnd(ListNode *head, int n) {
         if (counter == toremove) {
             prev->next = curr->next;
             break;
-        } else
-            continue;
+        }
     }
     return head;
 }
