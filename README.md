@@ -1,5 +1,5 @@
 # CTCI-Solutions
-![Language](https://img.shields.io/badge/Language-C%2B%2B-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0-red)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-brightgreen) ![Version](https://img.shields.io/badge/Version-1.0-red) ![Progress](https://img.shields.io/badge/Progress-14%2F189-9cf)
 
 ## Whats in it
  This contains solutions for problems in Cracking the coding interview.All the solutions are implemented in C++.  
